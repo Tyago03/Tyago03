@@ -29,5 +29,3 @@ Soy un desarrollador apasionado por la tecnología, con enfoque en **infraestruc
 ## Como me encontrar |  Dónde encontrarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyago-vitorino)
-
----
