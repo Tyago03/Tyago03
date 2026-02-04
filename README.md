@@ -6,7 +6,7 @@ Bacharel em Ciência da Computação | Desenvolvedor de Software Júnior | Inici
 
 Sou desenvolvedor apaixonado por tecnologia, com foco em **infraestrutura, redes e desenvolvimento backend**. Recém-formado em Ciência da Computação, estou sempre em busca de novos desafios e aprendizados.
 
-- Aprofunando meus conhecimentos em Linux e Redes.
+- Aprofundando meus conhecimentos em Linux e Redes.
 - Experiência em suporte técnico e gestão de sistemas na AGU.
 - Co-fundador da Tecnoterra, focada em soluções para licitações governamentais.
 - Estou aberto a novas oportunidades de trabalho!
