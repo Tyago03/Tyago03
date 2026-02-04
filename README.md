@@ -24,27 +24,24 @@ Sou desenvolvedor apaixonado por tecnologia, com foco em **infraestrutura, redes
 - Flutter
 - Git & GitHub
 - Linux
+- Power BI
 
 **Áreas de Interesse:**
 - Infraestrutura e Redes
 - Backend Development
-- Automação
+- Cibersegurança
 - APIs RESTful
 
 ## Projetos em Destaque
 
 ### [Ayla](https://github.com/Tyago03/Ayla)
-Assistente virtual desenvolvida em Python com FastAPI, capaz de processar comandos de voz/texto e executar diversas funcionalidades como consulta de clima, gerenciamento de listas e alarmes.
+Assistente virtual desenvolvida em Python com FastAPI, capaz de processar comandos de voz/texto e executar diversas funcionalidades.
 
 ### [AppHabitos](https://github.com/Tyago03/AppHabitos)
 Aplicativo mobile para gerenciamento e acompanhamento de hábitos diários, desenvolvido com Flutter e Firebase.
 
 ### [ConsultaCEP](https://github.com/Tyago03/ConsultaCEP)
 Projeto de treino em JavaScript para consulta de CEP utilizando APIs públicas.
-
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyago03&show_icons=true&theme=dark)
 
 ## Como me encontrar
 
