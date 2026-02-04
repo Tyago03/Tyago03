@@ -11,6 +11,7 @@ Sou desenvolvedor apaixonado por tecnologia, com foco em **infraestrutura, redes
 - Co-fundador da Tecnoterra, focada em soluções para licitações governamentais.
 - Estou aberto a novas oportunidades de trabalho!
 
+---
 # ¡Hola! Soy Tyago 👋
 
 Licenciado en Ciencias de la Computación | Desarrollador de Software Junior | Iniciando mis estudios en Ciberseguridad
