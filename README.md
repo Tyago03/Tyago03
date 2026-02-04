@@ -1,16 +1,55 @@
-## Hi there 👋
+# Olá! Eu sou o Tyago 👋
 
-<!--
-**Tyago03/Tyago03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bacharel em Ciência da Computação | Desenvolvedor de Software Júnior | Iniciando meus estudos em Cibersegurança
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor apaixonado por tecnologia, com foco em **infraestrutura, redes e desenvolvimento backend**. Recém-formado em Ciência da Computação, estou sempre em busca de novos desafios e aprendizados.
+
+- Atualmente trabalhando com desenvolvimento de soluções em Python e Flutter
+- Aprendendo mais sobre Linux, redes (Mikrotik) e infraestrutura
+- Experiência em suporte técnico e gestão de sistemas
+- Focado em automação e criação de assistentes virtuais
+
+## Tecnologias e Ferramentas
+
+**Linguagens:**
+- Python
+- Dart/Flutter
+- JavaScript
+- HTML/CSS
+
+**Frameworks & Ferramentas:**
+- FastAPI
+- Flutter
+- Git & GitHub
+- Linux
+
+**Áreas de Interesse:**
+- Infraestrutura e Redes
+- Backend Development
+- Automação
+- APIs RESTful
+
+## Projetos em Destaque
+
+### [Ayla](https://github.com/Tyago03/Ayla)
+Assistente virtual desenvolvida em Python com FastAPI, capaz de processar comandos de voz/texto e executar diversas funcionalidades como consulta de clima, gerenciamento de listas e alarmes.
+
+### [AppHabitos](https://github.com/Tyago03/AppHabitos)
+Aplicativo mobile para gerenciamento e acompanhamento de hábitos diários, desenvolvido com Flutter e Firebase.
+
+### [ConsultaCEP](https://github.com/Tyago03/ConsultaCEP)
+Projeto de treino em JavaScript para consulta de CEP utilizando APIs públicas.
+
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tyago03&show_icons=true&theme=dark)
+
+## Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyago-vitorino)
+
+---
+
+Estou sempre aberto a novos projetos e colaborações!
