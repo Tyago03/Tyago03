@@ -25,7 +25,10 @@ Soy un desarrollador apasionado por la tecnología, con enfoque en **infraestruc
 - Co-fundador de Tecnoterra, enfocada en soluciones para licitaciones gubernamentales.
 - ¡Estoy abierto a nuevas oportunidades de trabajo!
 
-
+<div align="center">
 ## Como me encontrar |  Dónde encontrarme
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyago-vitorino)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyagovf11@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562981932800)
+</div>
