@@ -12,6 +12,20 @@ Sou desenvolvedor apaixonado por tecnologia, com foco em **infraestrutura, redes
 - Estou aberto a novas oportunidades de trabalho!
 
 ---
+# Hi! I'm Tyago 👋
+
+Bachelor's Degree in Computer Science | Junior Software Developer | Starting my studies in Cybersecurity
+
+## About me
+
+I'm a technology-driven developer with a focus on **infrastructure, networks, and backend development**. Recently graduated in Computer Science, I'm always seeking new challenges and learning opportunities.
+
+- Deepening my knowledge in Linux and Networks.
+- Experience in technical support and systems management at AGU.
+- Co-founder of Tecnoterra, focused on solutions for government procurement.
+- I'm open to new job opportunities!
+
+---
 # ¡Hola! Soy Tyago 👋
 
 Licenciado en Ciencias de la Computación | Desarrollador de Software Junior | Iniciando mis estudios en Ciberseguridad
@@ -26,7 +40,7 @@ Soy un desarrollador apasionado por la tecnología, con enfoque en **infraestruc
 - ¡Estoy abierto a nuevas oportunidades de trabajo!
 
 <div align="center">
-<h2>Como me encontrar | Dónde encontrarme</h2>
+<h2>Como me encontrar | Reach out | Dónde encontrarme</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyago-vitorino)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyagovf11@gmail.com)
