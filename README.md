@@ -6,10 +6,9 @@ Bacharel em Ciência da Computação | Desenvolvedor de Software Júnior | Inici
 
 Sou desenvolvedor apaixonado por tecnologia, com foco em **infraestrutura, redes e desenvolvimento backend**. Recém-formado em Ciência da Computação, estou sempre em busca de novos desafios e aprendizados.
 
-- Atualmente trabalhando com desenvolvimento de soluções em Python e Flutter
-- Aprendendo mais sobre Linux, redes (Mikrotik) e infraestrutura
-- Experiência em suporte técnico e gestão de sistemas
-- Focado em automação e criação de assistentes virtuais
+- Aprofunando meus conhecimentos em Linux e Redes
+- Experiência em suporte técnico e gestão de sistemas na AGU
+- Co-fundador da Tecnoterra, focada em soluções para licitações governamentais
 
 ## Tecnologias e Ferramentas
 
@@ -31,17 +30,6 @@ Sou desenvolvedor apaixonado por tecnologia, com foco em **infraestrutura, redes
 - Backend Development
 - Cibersegurança
 - APIs RESTful
-
-## Projetos em Destaque
-
-### [Ayla](https://github.com/Tyago03/Ayla)
-Assistente virtual desenvolvida em Python com FastAPI, capaz de processar comandos de voz/texto e executar diversas funcionalidades.
-
-### [AppHabitos](https://github.com/Tyago03/AppHabitos)
-Aplicativo mobile para gerenciamento e acompanhamento de hábitos diários, desenvolvido com Flutter e Firebase.
-
-### [ConsultaCEP](https://github.com/Tyago03/ConsultaCEP)
-Projeto de treino em JavaScript para consulta de CEP utilizando APIs públicas.
 
 ## Como me encontrar
 
