@@ -12,8 +12,9 @@ Também sou cofundador da **Tecnoterra**, voltada a soluções para licitações
 | --- | --- |
 | **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI)** | Triagem de solicitações com **Qwen local, FastAPI, n8n e Google Sheets**; validação humana e avaliação em dados sintéticos. |
 | **[Ayla](https://github.com/Tyago03/Ayla)** | Assistente com **Qwen/Ollama**, pesquisa web, ferramentas controladas, listas e interação por voz. |
+| **[HabiTrack](https://github.com/Tyago03/AppHabitos)** | App de hábitos reconstruído com **Flutter/Dart**, persistência local, testes e CI. |
 
-Os dois são projetos de portfólio. No DeskFlow, a integração foi testada localmente; isso não significa uso em produção empresarial.
+Os três são projetos de portfólio. No DeskFlow, a integração foi testada localmente; isso não significa uso em produção empresarial. HabiTrack é uma reconstrução offline de um projeto acadêmico antigo.
 
 <details>
 <summary><strong>🇺🇸 English — About me & projects</strong></summary>
@@ -30,8 +31,9 @@ I'm also a co-founder of **Tecnoterra**, focused on government procurement solut
 
 - **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI):** AI-assisted request triage with local Qwen, FastAPI, n8n, Google Sheets, human review, and evaluation on synthetic data.
 - **[Ayla](https://github.com/Tyago03/Ayla):** Personal assistant using Qwen/Ollama, web search, controlled tools, lists, and voice interaction.
+- **[HabiTrack](https://github.com/Tyago03/AppHabitos):** Rebuilt habit tracker with Flutter/Dart, local persistence, tests, and CI.
 
-Both are portfolio projects. Local integration testing does not imply enterprise production deployment.
+All three are portfolio projects. Local integration testing does not imply enterprise production deployment; HabiTrack is an offline reconstruction of an earlier academic project.
 
 </details>
 
@@ -50,8 +52,9 @@ También soy cofundador de **Tecnoterra**, orientada a soluciones para licitacio
 
 - **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI):** Clasificación de solicitudes con Qwen local, FastAPI, n8n, Google Sheets, revisión humana y evaluación con datos sintéticos.
 - **[Ayla](https://github.com/Tyago03/Ayla):** Asistente personal con Qwen/Ollama, búsqueda web, herramientas controladas, listas e interacción por voz.
+- **[HabiTrack](https://github.com/Tyago03/AppHabitos):** Aplicación de hábitos reconstruida con Flutter/Dart, almacenamiento local, pruebas y CI.
 
-Ambos son proyectos de portafolio. Las pruebas de integración locales no equivalen a un despliegue empresarial en producción.
+Los tres son proyectos de portafolio. Las pruebas de integración locales no equivalen a un despliegue empresarial en producción; HabiTrack es una reconstrucción offline de un proyecto académico anterior.
 
 </details>
 
