@@ -1,68 +1,49 @@
-# Olá! Eu sou o Tyago 👋
+# Hi, I'm Tyago
 
-**Desenvolvedor Full-Stack | Bacharel em Ciência da Computação | Pós-graduando em Cibersegurança**
+**Full-stack developer | Flutter & Dart projects | Computer Science graduate**
 
-Trabalho com desenvolvimento de software na **Phoenix Geotecnologia** e me interesso por **backend, APIs, automação, IA aplicada e desenvolvimento seguro**. Antes, atuei com suporte de TI e gestão de acessos na **Advocacia-Geral da União (AGU)**.
+Based in Goiânia, Brazil. I develop software at **Phoenix Geotecnologia** and build personal projects in mobile development, APIs and automation. Previously, I worked in IT support, access management and asset mapping at Brazil's **Advocacia-Geral da União (AGU)**.
 
-Também sou cofundador da **Tecnoterra**, voltada a soluções para licitações governamentais. Estou aberto a oportunidades e desafios em desenvolvimento de software e inteligência artificial.
+I hold a bachelor's degree in Computer Science from **CEUB** and am pursuing postgraduate studies in Cybersecurity at **Acadi-TI**. I am interested in junior mobile and backend opportunities, as well as secure software development.
 
-## 🚀 Projetos em destaque
+## Featured project — NextStep
 
-| Projeto | O que demonstra |
+**[NextStep](https://github.com/Tyago03/NextStep)** is a personal Android study planner built with **Flutter, Dart, Riverpod and SQLite**. It addresses a practical problem: starting a small study task and remembering where to continue after an interruption.
+
+- Offline goals, tasks, session history and next-step notes, without an account.
+- Pause/resume, finish for now and task completion are separate actions; a new session restores the previous note with a fresh timer.
+- Portuguese/English interfaces, database migrations, automated tests and Android process-recovery checks.
+- Signed Android release, demonstrated on an emulator and manually tested on my own Android phone.
+
+[Code](https://github.com/Tyago03/NextStep) · [Demo](https://github.com/Tyago03/NextStep/releases/download/v0.3.0/NextStep-0.3.0-demo.mp4) · [Android release](https://github.com/Tyago03/NextStep/releases/tag/v0.3.0)
+
+**Access:** the NextStep repository and release are currently private; public access is being prepared. Optional Firebase/Gemini planning is not activated in this release.
+
+## Other projects
+
+| Project | Focus |
 | --- | --- |
-| **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI)** | Triagem de solicitações com **Qwen local, FastAPI, n8n e Google Sheets**; validação humana e avaliação em dados sintéticos. |
-| **[Ayla](https://github.com/Tyago03/Ayla)** | Assistente com **Qwen/Ollama**, pesquisa web, ferramentas controladas, listas e interação por voz. |
-| **[HabiTrack](https://github.com/Tyago03/AppHabitos)** | App de hábitos reconstruído com **Flutter/Dart**, persistência local, testes e CI. |
+| **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI)** | Local request-triage prototype with Python/FastAPI, Qwen/Ollama, n8n and SQLite. Human review, authenticated webhook intake and manual Google Sheets export; evaluated with synthetic data. |
+| **[Ayla](https://github.com/Tyago03/Ayla)** | Local web assistant with Python/FastAPI, SQLite and Qwen/Ollama, including tools, confirmed list updates and web search. |
+| **[HabiTrack](https://github.com/Tyago03/AppHabitos)** | Offline Flutter/Dart habit tracker reconstructed from an earlier academic project, with local persistence, tests and CI. |
 
-Os três são projetos de portfólio. No DeskFlow, a integração foi testada localmente; isso não significa uso em produção empresarial. HabiTrack é uma reconstrução offline de um projeto acadêmico antigo.
+These are portfolio projects, not claims of enterprise production deployments or measured business impact.
 
-<details>
-<summary><strong>🇺🇸 English — About me & projects</strong></summary>
+## Technologies used in my work and projects
 
-### Hi! I'm Tyago 👋
-
-**Full-Stack Developer | Bachelor's Degree in Computer Science | Cybersecurity Postgraduate Student**
-
-I work in software development at **Phoenix Geotecnologia**, with an interest in **backend systems, APIs, automation, applied AI, and secure development**. Previously, I worked in IT support and access management at Brazil's **Office of the Attorney General (AGU)**.
-
-I'm also a co-founder of **Tecnoterra**, focused on government procurement solutions, and I'm open to software engineering and AI-related opportunities.
-
-#### Featured projects
-
-- **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI):** AI-assisted request triage with local Qwen, FastAPI, n8n, Google Sheets, human review, and evaluation on synthetic data.
-- **[Ayla](https://github.com/Tyago03/Ayla):** Personal assistant using Qwen/Ollama, web search, controlled tools, lists, and voice interaction.
-- **[HabiTrack](https://github.com/Tyago03/AppHabitos):** Rebuilt habit tracker with Flutter/Dart, local persistence, tests, and CI.
-
-All three are portfolio projects. Local integration testing does not imply enterprise production deployment; HabiTrack is an offline reconstruction of an earlier academic project.
-
-</details>
+**Mobile:** Flutter, Dart, Riverpod, SQLite  
+**Backend and automation:** Python, FastAPI, JavaScript, n8n  
+**Development workflow:** Git, GitHub Actions, unit, widget and integration tests
 
 <details>
-<summary><strong>🇪🇸 Español — Sobre mí y mis proyectos</strong></summary>
+<summary><strong>Português — sobre mim</strong></summary>
 
-### ¡Hola! Soy Tyago 👋
+Sou Tyago Vitorino Ferreira, bacharel em Ciência da Computação pelo CEUB e pós-graduando em Cibersegurança pela Acadi-TI. Trabalho com desenvolvimento full-stack na Phoenix Geotecnologia e desenvolvo projetos pessoais em Flutter/Dart, APIs e automação. Antes, atuei com suporte de TI, gestão de acessos e mapeamento de ativos na AGU.
 
-**Desarrollador Full-Stack | Graduado en Ciencias de la Computación | Estudiante de Posgrado en Ciberseguridad**
-
-Trabajo en desarrollo de software en **Phoenix Geotecnologia**, con interés en **backend, APIs, automatización, IA aplicada y desarrollo seguro**. Anteriormente trabajé en soporte de TI y gestión de accesos en la **Abogacía General de la Unión (AGU)** de Brasil.
-
-También soy cofundador de **Tecnoterra**, orientada a soluciones para licitaciones gubernamentales. Estoy abierto a oportunidades en desarrollo de software e inteligencia artificial.
-
-#### Proyectos destacados
-
-- **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI):** Clasificación de solicitudes con Qwen local, FastAPI, n8n, Google Sheets, revisión humana y evaluación con datos sintéticos.
-- **[Ayla](https://github.com/Tyago03/Ayla):** Asistente personal con Qwen/Ollama, búsqueda web, herramientas controladas, listas e interacción por voz.
-- **[HabiTrack](https://github.com/Tyago03/AppHabitos):** Aplicación de hábitos reconstruida con Flutter/Dart, almacenamiento local, pruebas y CI.
-
-Los tres son proyectos de portafolio. Las pruebas de integración locales no equivalen a un despliegue empresarial en producción; HabiTrack es una reconstrucción offline de un proyecto académico anterior.
+Meu projeto principal de mobile é o **NextStep**, um aplicativo Android para organizar pequenas tarefas de estudo e preservar o próximo passo entre sessões. Também sou cofundador da **Tecnoterra**, voltada a soluções para licitações governamentais.
 
 </details>
 
 ---
 
-<div align="center">
-  <h2>Como me encontrar | Reach out | Dónde encontrarme</h2>
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyago-vitorino)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tyagovf11@gmail.com)
-</div>
+[LinkedIn](https://www.linkedin.com/in/tyago-vitorino/) · [Email](mailto:tyagovf11@gmail.com)
