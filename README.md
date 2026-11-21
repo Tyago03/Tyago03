@@ -8,16 +8,16 @@ I hold a bachelor's degree in Computer Science from **CEUB** and am pursuing pos
 
 ## Featured project — NextStep
 
-**[NextStep](https://github.com/Tyago03/NextStep)** is a personal Android study planner built with **Flutter, Dart, Riverpod and SQLite**. It addresses a practical problem: starting a small study task and remembering where to continue after an interruption.
+**[NextStep](https://github.com/Tyago03/NextStep)** is a personal Android study planner built with **Flutter, Dart, Riverpod and SQLite**. It helps turn a study goal into small tasks and preserves where to continue after an interruption.
 
 - Offline goals, tasks, session history and next-step notes, without an account.
 - Pause/resume, finish for now and task completion are separate actions; a new session restores the previous note with a fresh timer.
-- Portuguese/English interfaces, database migrations, automated tests and Android process-recovery checks.
-- Signed Android release, demonstrated on an emulator and manually tested on my own Android phone.
+- Portuguese/English interfaces and database migrations, covered by **92 unit/widget tests and four Android integration stages**, including process recovery.
+- Signed **v0.3.0 APK for Android 7.0+**, demonstrated on an emulator and manually tested on my own Android phone.
 
-[Code](https://github.com/Tyago03/NextStep) · [Demo](https://github.com/Tyago03/NextStep/releases/download/v0.3.0/NextStep-0.3.0-demo.mp4) · [Android release](https://github.com/Tyago03/NextStep/releases/tag/v0.3.0)
+[Code](https://github.com/Tyago03/NextStep) · [Download APK](https://github.com/Tyago03/NextStep/releases/download/v0.3.0/NextStep-0.3.0-release.apk) · [Demo video](https://github.com/Tyago03/NextStep/releases/download/v0.3.0/NextStep-0.3.0-demo.mp4) · [Release notes](https://github.com/Tyago03/NextStep/releases/tag/v0.3.0)
 
-**Access:** the NextStep repository and release are currently private; public access is being prepared. Optional Firebase/Gemini planning is not activated in this release.
+Optional Firebase/Gemini planning is prepared but is not activated in this release.
 
 ## Other projects
 
