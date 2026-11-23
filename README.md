@@ -24,7 +24,7 @@ Optional Firebase/Gemini planning is prepared but is not activated in this relea
 | Project | Focus |
 | --- | --- |
 | **[DeskFlow AI](https://github.com/Tyago03/DeskFlow-AI)** | Local request-triage prototype with Python/FastAPI, Qwen/Ollama, n8n and SQLite. Human review, authenticated webhook intake and manual Google Sheets export; evaluated with synthetic data. |
-| **[Ayla](https://github.com/Tyago03/Ayla)** | Local web assistant with Python/FastAPI, SQLite and Qwen/Ollama, including tools, confirmed list updates and web search. |
+| **[DevStation](https://github.com/Tyago03/DevStation)** | Windows desktop developer workspace built with Electron, React, TypeScript and SQLite. Read-only Git inspection, guided Python/Node task launches, local logs and diagnostics; public v0.2.1 preview. |
 | **[HabiTrack](https://github.com/Tyago03/AppHabitos)** | Offline Flutter/Dart habit tracker reconstructed from an earlier academic project, with local persistence, tests and CI. |
 
 These are portfolio projects, not claims of enterprise production deployments or measured business impact.
